@@ -2,15 +2,9 @@
 
 ---
 
-Friday 21, 2023
-
-work by [ACHAQ Youness](https://www.linkedin.com/in/youness-achaq-564518207/)
-
-
-
 # Introduction
 
-### **In this project, I will set up a simple cache system.**
+### **In this project, We will set up a cache system.**
 
 The architecture’s design is the following :
 ![ARCHI.png](ARCHI.png)
